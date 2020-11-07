@@ -1,5 +1,5 @@
 {
-  "name": "postcss-var-utility-classes",
+  "name": "postcss-variable-utility-classes",
   "version": "0.0.0",
   "description": "PostCSS plugin to generate CSS utility classes from CSS variables",
   "keywords": [
@@ -15,7 +15,7 @@
   },
   "author": "Paul Welsh <spacedawwwg@gmail.com>",
   "license": "MIT",
-  "repository": "spacedawwwg/postcss-var-utility-classes",
+  "repository": "spacedawwwg/postcss-variable-utility-classes",
   "engines": {
     "node": ">=10.0.0"
   },

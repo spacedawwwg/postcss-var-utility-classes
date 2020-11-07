@@ -3,7 +3,7 @@ module.exports = (opts = { }) => {
   // Work with options here
 
   return {
-    postcssPlugin: 'postcss-var-utility-classes',
+    postcssPlugin: 'postcss-variable-utility-classes',
     /*
     Root (root, postcss) {
       // Transform CSS AST here

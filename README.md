@@ -1,4 +1,4 @@
-# PostCSS Var Utility Classes
+# PostCSS Variable Utility Classes
 
 [PostCSS] plugin to generate CSS utility classes from CSS variables.
 
@@ -21,7 +21,7 @@
 **Step 1:** Install plugin:
 
 ```sh
-npm install --save-dev postcss postcss-var-utility-classes
+npm install --save-dev postcss postcss-variable-utility-classes
 ```
 
 **Step 2:** Check you project for existed PostCSS config: `postcss.config.js`
@@ -36,7 +36,7 @@ and set this plugin in settings.
 ```diff
 module.exports = {
   plugins: [
-+   require('postcss-var-utility-classes'),
++   require('postcss-variable-utility-classes'),
     require('autoprefixer')
   ]
 }
